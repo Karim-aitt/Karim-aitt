@@ -22,13 +22,11 @@ _Other stack I've worked with_:
 
 ---
 
-#### Backend:
-
-> <a href='https://nodejs.org/en/' target="_blank"><img alt='Node.js' src='https://img.shields.io/badge/Nodejs-100000?style=for-the-badge&logo=Node.js&logoColor=FFFFFF&labelColor=41873F&color=68BA49'/></a> <a href='https://nodejs.org/en/' target="_blank"><img alt='express' src='https://img.shields.io/badge/Express-100000?style=for-the-badge&logo=express&logoColor=FFFFFF&labelColor=010101&color=FCFCFC'/></a> <a href='https://www.mongodb.com/' target="_blank"><img alt='mongodb' src='https://img.shields.io/badge/mongodb-100000?style=for-the-badge&logo=mongodb&logoColor=FFFFFF&labelColor=116149&color=00ED64'/></a>
-
 _Other stack I've worked with_:
 
 > <a href='https://www.python.org/' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FFFFFF&labelColor=3771A2&color=FFCD3D'/></a> <a href='https://flask.palletsprojects.com/en/2.2.x/' target="_blank"><img alt='flask' src='https://img.shields.io/badge/Flask-100000?style=for-the-badge&logo=flask&logoColor=FFFFFF&labelColor=000000&color=B0B0B0'/></a> <a href='https://www.postgresql.org/' target="_blank"><img alt='postgresql' src='https://img.shields.io/badge/postgresql-100000?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&labelColor=336791&color=4C7393'/></a> <a href='https://graphql.org/' target="_blank"><img alt='graphql' src='https://img.shields.io/badge/Graphql-100000?style=for-the-badge&logo=graphql&logoColor=FFFFFF&labelColor=E10098&color=DE46AC'/></a>
 
 ### About me
+
+I am a junior frontend developer, from Spain, with experience using tools such as HTML, CSS, JavaScript, TypeScript, React, and Angular. I am passionate about web development and love creating dynamic and interactive user experiences.
 
