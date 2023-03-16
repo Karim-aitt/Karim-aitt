@@ -6,7 +6,7 @@
 
 Web developer looking for _frontend_ opportunities. You can find me on:
 
-> <a href='https://www.linkedin.com/in/karimdev/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444445&color=5C5C5C'/></a> <a href='mailto:karim.gonzalez.ait@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444445&color=5C5C5C'/></a><a href='https://karim-pf.netlify.app/' target="_blank"><img alt='' src='https://img.shields.io/badge/🌍-_Portfolio-100000?style=for-the-badge&logo=&labelColor=444445&color=5C5C5C'/></a>
+> <a href='https://www.linkedin.com/in/karimdev/' target="_blank"><img alt='linkedin' src='https://img.shields.io/badge/linkedin-100000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=444445&color=5C5C5C'/></a> <a href='mailto:karim.gonzalez.ait@gmail.com' target="_blank"><img alt='gmail' src='https://img.shields.io/badge/email-100000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=444445&color=5C5C5C'/></a> <a href='https://karim-pf.netlify.app/' target="_blank"><img alt='' src='https://img.shields.io/badge/🌍-_Portfolio-100000?style=for-the-badge&logo=&labelColor=444445&color=5C5C5C'/></a>
 
 ### Main stack
 
