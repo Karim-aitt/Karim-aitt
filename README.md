@@ -1,8 +1,8 @@
 ## Hallo!
 
-> I'm Karim, a web developer. Currently, I specialize in [Vue]() and [React](), although I've also worked with [Angular](). While I've spent 
-> most of my time in frontend development, I've dabbled in backend technologies like [Express]() and [Flask](), and I've used various 
-> databases such as [postgreSQL](), [Firebase](), and [MongoDB]().
+> Experiencia en desarrollo Frontend, diseñando y construyendo interfaces de usuario intuitivas y funcionales, así
+> como implementando lógica del lado del cliente. En el ámbito Backend, he trabajado con bases de datos,
+> desarrollo de APIs web y optimización de procesos para asegurar la eficiencia y escalabilidad de las aplicaciones.
 
 
 I consider myself someone who loves to "create" and constantly evolve by learning new technologies and their applications.
