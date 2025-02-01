@@ -1,8 +1,8 @@
 ## Hallo!
 
-> Experiencia en desarrollo Frontend, diseñando y construyendo interfaces de usuario intuitivas y funcionales, así
-> como implementando lógica del lado del cliente. En el ámbito Backend, he trabajado con bases de datos,
-> desarrollo de APIs web y optimización de procesos para asegurar la eficiencia y escalabilidad de las aplicaciones.
+> Experience in Frontend development, designing and building intuitive and functional user interfaces, as well as
+> implementing client-side logic. In the Backend field, I have worked in database management, web API
+> development, and process optimization to ensure application efficiency and scalability.
 
 
 I consider myself someone who loves to "create" and constantly evolve by learning new technologies and their applications.
