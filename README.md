@@ -1,11 +1,9 @@
-## Hallo!
+## Hello!
 
-> Experience in Frontend development, designing and building intuitive and functional user interfaces, as well as
-> implementing client-side logic. In the Backend field, I have worked in database management, web API
-> development, and process optimization to ensure application efficiency and scalability.
+### Frontend web developer with experience in Angular, Vue, and React. Passionate about building clean, accessible, and user-focused interfaces.
 
+🛠️ I've worked on real-world projects in freelance and team-based settings, building SPA applications, improving UX, applying SSR, and creating reusable components.
 
-I consider myself someone who loves to "create" and constantly evolve by learning new technologies and their applications.
+📦 Here you'll find personal projects, proof of concepts, experimental tools, and code snippets.
 
-If you're looking to share ideas, chat about code, or just network, don't hesitate to reach out. I'm very friendly. 😃
-
+👨‍💻 Always open to collaborations, feedback, and new ideas. Feel free to reach out if something catches your eye.
